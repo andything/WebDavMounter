@@ -1,0 +1,5 @@
+{
+    "version": "1.0-20260715",
+    "releaseNotes": "1. 初始版本发布\n2. 支持 WebDAV 挂载\n3. 支持自动挂载功能",
+    "downloadURL": "https://github.com/andything/WebDavMounter/releases/download/v1.0/WebDavMounter.dmg"
+}
