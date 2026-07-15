@@ -2,4 +2,4 @@
     "version": "v1.1-20260716",
     "releaseNotes": "1. 新增 WebDAV 加密连接支持\n2. 数据传输安全升级\n3. 优化自动挂载机制\n4. 挂载成功率大幅提升\n5. 支持挂载点自定义命名\n6. 多账户管理更便捷\n7. 修复 HTTPS 证书校验异常\n8. 修复网络切换恢复问题\n9. 优化内存占用\n10. 提升大文件传输性能\n11. 修复卸载卡顿问题",
     "downloadURL": "https://github.com/andything/WebDavMounter/releases/download/Release/WebDavMounter.dmg"
-};
+}
