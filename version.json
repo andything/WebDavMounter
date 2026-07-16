@@ -1,5 +1,5 @@
 {
     "version": "v1.1-20260716",
     "releaseNotes": "1. 新增「挂载全部」功能，一键挂载所有配置（⌘⇧M）\n2. 新增「断开全部」功能，一键断开所有连接（⌘⇧D）\n3. 新增应用内更新下载，支持进度条显示\n4. 修复开机不自启动问题\n5. 修复开机自动挂载偶发失败问题（增加网络检测与重试机制）\n6. 修复挂载成功弹窗不显示问题\n7. 修复挂载/断开失败弹窗信息换行问题\n8. 修复后台线程更新 UI 导致的运行时警告\n9. 修复登录项管理 API 在 macOS 13+ 的兼容性问题\n10. 优化菜单布局，「挂载全部」移至「手动挂载」子菜单顶部\n11. 优化菜单文字：设置、关于、更新、退出\n12. 统一弹窗图标风格：成功 🟢 / 失败 🔴 / 提示 🟡",
-    "downloadURL": "https://github.com/andything/WebDavMounter/releases/download/Release/WebDavMounter.dmg"
+    "downloadURL": "https://github.com/andything/WebDavMounter/releases/download/WebDAV_Mounter/WebDavMounter_v1.1-20260716.dmg"
 }
